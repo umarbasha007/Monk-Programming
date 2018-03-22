@@ -1,0 +1,5 @@
+dt_type : mysql 
+db_name : testdata
+db_table_prefix : test_
+db_port : 1099
+
